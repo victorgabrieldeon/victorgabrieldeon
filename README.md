@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/OpenObserve-111111?style=for-the-badge&logoColor=white"/>
 </div>
 
----
 
 ## Stats
 
@@ -49,13 +48,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgabrieldeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=a0aec0"/>
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorgabrieldeon&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
